@@ -1,22 +1,201 @@
-<h1 align="center">Hi 👋, I'm Neeharika Reddy Gadikota</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Hi, I'm Neeharika Reddy 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeharika0305&label=Profile%20views&color=0e75b6&style=flat" alt="neeharika0305" /> </p>
+### Software Engineer | Backend & Distributed Systems | Python
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeharika0305" alt="neeharika0305" /></a> </p>
+I build reliable backend systems and scalable software with a focus on
+**distributed systems, APIs, databases, concurrency, and intelligent automation.**
 
-- 📫 How to reach me **g.neeharikareddy0305@gmail.com**
+Currently pursuing **MCA in Computer Applications** at
+**Madanapalle Institute of Technology & Science**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/neeharika-reddy-gadikota-646986276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neeharika-reddy-gadikota-646986276" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@g_neeharikaredd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@g_neeharikaredd1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/user9752zn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user9752zn/" height="30" width="40" /></a>
-</p>
+🎯 **Seeking Software Engineering / Backend Engineering opportunities**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeharika0305&show_icons=true&locale=en&layout=compact" alt="neeharika0305" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeharika0305&show_icons=true&locale=en" alt="neeharika0305" /></p>
+### 🔗 Relay — Globally Scalable Intelligent URL Routing & Reliability Platform
+
+A production-oriented routing and reliability platform designed to intelligently
+route traffic across backend services while handling failures and changing load.
+
+**Key engineering areas:**
+- Intelligent routing using weighted, priority, least-load and latency strategies
+- Health checks and automatic failover
+- Redis-based caching and distributed state
+- PostgreSQL-backed route configuration
+- Circuit breaker and rate limiting
+- Async background workers using Python `asyncio`
+- Prometheus/Grafana observability
+- Dockerized services with automated testing
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Pytest` `React` `Prometheus`
+
+🔗 [View Repository](https://github.com/Neeharika0305/relay)
+
+---
+
+### ⚡ ReservNXT — High-Concurrency Inventory Reservation Platform
+
+A backend system designed around **concurrency, transactional consistency,
+idempotency, and reliable inventory allocation**.
+
+**Key engineering areas:**
+- Transaction-safe inventory reservation
+- PostgreSQL as the source of truth
+- Reservation lifecycle management
+- Idempotent request handling
+- Inventory consistency under concurrent requests
+- Waitlist and event-driven architecture
+- REST APIs with FastAPI
+- Database-backed state transitions
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `REST API`
+
+---
+
+### 🏫 CampusInox — Smart Campus Issue Intelligence Platform
+
+A full-stack platform for managing campus issues with automated
+classification, duplicate detection and priority analysis.
+
+**Key engineering areas:**
+- NLP-based issue similarity and duplicate detection
+- Automated issue prioritization
+- JWT-based authentication and role-based access
+- REST API architecture
+- MySQL persistence
+- React-based frontend
+
+**Stack:** `React` `Flask` `Python` `MySQL` `NLP` `JWT`
+
+---
+
+### 🔐 VaultBox — Secure Credential Management System
+
+A security-focused web application for managing sensitive credentials
+using encryption and OTP-based authentication.
+
+**Key engineering areas:**
+- Fernet-based encryption
+- OTP-based authentication
+- Secure credential storage
+- Flask REST APIs
+- MySQL persistence
+
+**Stack:** `Python` `Flask` `MySQL` `PyOTP` `Fernet`
+
+---
+
+## 🧠 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- REST API Design
+- Database Systems
+- Concurrency & Transactions
+- Caching & Reliability
+- Data Structures & Algorithms
+- Machine Learning Systems
+- Explainable AI
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+
+`Python` `Java` `C` `SQL`
+
+**Backend**
+
+`FastAPI` `Flask` `REST APIs` `AsyncIO`
+
+**Databases & Infrastructure**
+
+`PostgreSQL` `MySQL` `Redis` `Docker`
+
+**Frontend**
+
+`React` `Vite` `HTML` `CSS` `JavaScript`
+
+**Testing & Observability**
+
+`Pytest` `Locust` `Prometheus` `Grafana`
+
+**ML / Data**
+
+`NumPy` `Pandas` `Scikit-learn` `TensorFlow` `Keras`
+`XGBoost` `SHAP` `LIME`
+
+**Developer Tools**
+
+`Git` `GitHub` `Linux` `VS Code`
+
+---
+
+## 📚 Research & Publications
+
+**Adaptive Explainable AI Framework for Personalized Risk Assessment
+and Early Disease Prediction**
+
+IEEE Xplore · Scopus Indexed
+
+**An Ensemble Learning Approach for Electric Vehicle Battery Health
+and Lifespan Prediction**
+
+Springer Nature · Lecture Notes in Networks and Systems
+
+---
+
+## 💼 Experience
+
+### Infosys Springboard — AI Intern
+
+Worked on machine learning workflows involving:
+
+- Time-series forecasting
+- Data preprocessing and feature engineering
+- Model evaluation and performance analysis
+- Explainable AI using SHAP and LIME
+- Deployment-oriented ML workflows
+
+---
+
+## 🎓 Education
+
+**MCA — Computer Applications**  
+Madanapalle Institute of Technology & Science  
+CGPA: **9.07 / 10**
+
+**BCA — Data Science**  
+Amrita Vishwa Vidyapeetham, Mysuru  
+CGPA: **8.67 / 10 · 4th Rank**
+
+---
+
+## 📈 Currently Working On
+
+- Building production-oriented backend systems
+- Distributed systems & system design
+- Advanced Data Structures & Algorithms
+- High-concurrency architectures
+- Scalable API design
+- Software engineering interview preparation
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/neeharika-reddy-gadikota-646986276/)
+·
+[GitHub](https://github.com/Neeharika0305)
+·
+[Portfolio](https://profolio-essence-86.lovable.app)
+
+📧 **g.neeharikareddy0305@gmail.com**
+
+---
+
+### "Build systems that are reliable, scalable, and simple."
